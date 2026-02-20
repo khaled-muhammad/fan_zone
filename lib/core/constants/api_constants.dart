@@ -1,5 +1,5 @@
 class ApiConstants {
-  static const String baseUrl = 'http://192.168.1.45:4000/api';
+  static const String baseUrl = 'https://fans.zone.id/api';
 
   static const bool googleMapsEnabled = false;
 
